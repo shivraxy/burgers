@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(175, 192, 143);
+}
+
+#newBurger {
+    width: 250px;
+    height: 150px;
+}
